@@ -2,6 +2,8 @@
 
 # 首頁
 
+> [Pomelo Desktop](https://pomelo.fedora.tw/) 探索筆記
+
 | Link | GitHub |
 | ---- | ------ |
 | [Pomelo Adjustment](https://samwhelp.github.io/pomelo-adjustment/) | [GitHub](https://github.com/samwhelp/pomelo-adjustment) |
