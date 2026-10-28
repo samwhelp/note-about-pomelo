@@ -16,6 +16,7 @@
 
 * [微調腳本](#微調腳本)
 * [ISO](#iso)
+* [PPA](#ppa)
 * [相關筆記](#相關筆記)
 
 
@@ -39,6 +40,15 @@
 | Build ISO |
 | --------- |
 | [ubuntu-live-custom-respin-pomelo](https://github.com/samwhelp/ubuntu-live-custom-respin-pomelo) |
+
+
+
+
+## PPA
+
+| PPA |
+| --- |
+| [demo-apt-repository-for-ubuntu-pomelo](https://github.com/samwhelp/demo-apt-repository-for-ubuntu-pomelo) |
 
 
 
